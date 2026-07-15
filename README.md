@@ -65,7 +65,7 @@ The impact of a SOC on a business, particularly within an HR framework, includes
 ---
 
 ## **5. SIEM Dashboards parts**
-![SIEM](SIEM Parts.png)
+![SIEM](SIEM%Parts.png)
 
 Here are the main components of this security alert screen from SIEM
 
